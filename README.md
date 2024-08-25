@@ -16,6 +16,7 @@
 ## **Features**
 
  - Responsive Design: The app is fully responsive and optimized for various devices, ensuring a seamless shopping experience on mobile, tablet, and desktop.
+ - Themes : Implemented a dark mode 
  - Interactive Carousels: Engaging product carousels implemented using react-slick and slick-carousel.
  - Smooth Animations: Enhanced user interaction with scroll animations powered by AOS.
  - Icon Integration: Rich UI elements supported by react-icons.
