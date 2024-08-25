@@ -20,11 +20,11 @@ Follow these steps to run the project locally:
 
 **Tech Stack Used**
 
-**React.js**: A JavaScript library for building user interfaces.
-**Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-**react-slick & slick-carousel**: Used for creating responsive carousels.
-**AOS (Animate On Scroll)**: For smooth scrolling animations.
-**react-icons**: A collection of popular icons to enhance UI.
+ - **React.js**: A JavaScript library for building user interfaces.
+ - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+ - **react-slick & slick-carousel**: Used for creating responsive carousels.
+ - **AOS (Animate On Scroll)**: For smooth scrolling animations.
+ - **react-icons**: A collection of popular icons to enhance UI.
 
 
 **Features**
